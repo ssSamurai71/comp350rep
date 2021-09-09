@@ -1,0 +1,28 @@
+{
+  "Messages": [
+    {
+      "MessageId": "string",
+      "ReceiptHandle": "string",
+      "MD5OfBody": "string",
+      "Body": { "subdata": "/submissions/m.soltys/aws_labs/lab5_containers/fc55c0190dde2bc413d8d1e79fb8cca2/fc55c0190dde2bc413d8d1e79fb8cca2.json" },
+      "Attributes": {
+        "string": "string"
+      },
+      "MD5OfMessageAttri": {
+        "string": {
+          "StringValue": "string",
+          "BinaryValue": "b'bytes'",
+          "StringListValues": [
+            "string",
+            ""
+          ],
+          "BinaryListValues": [
+            "b'bytes'",
+            ""
+          ],
+          "DataType": "string"
+        }
+      }
+    }
+  ]
+}
